@@ -1,0 +1,17 @@
+{
+  "short_name": "Hisabati",
+  "name": "Hisabati - نظام نقاط البيع والمحاسبة",
+  "description": "نظام متكامل لنقاط البيع (POS) والمحاسبة، مصمم خصيصًا للمتاجر الصغيرة والمتوسطة. يركز التطبيق على العمل دون اتصال بالإنترنت، مع مزامنة ذكية للبيانات.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#f1f5f9",
+  "background_color": "#f1f5f9"
+}
